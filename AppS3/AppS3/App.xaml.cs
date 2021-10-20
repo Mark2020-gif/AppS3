@@ -9,7 +9,7 @@ namespace AppS3
         public App()
         {
             InitializeComponent();
-            //Navegacion amd
+            //Navegacion amdxd
             MainPage = new NavigationPage (new MainPage());
         }
 

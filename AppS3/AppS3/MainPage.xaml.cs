@@ -21,7 +21,7 @@ namespace AppS3
             {
                 string usuario = txtUsuario.Text;
                 string clave = txtClave.Text;
-                //Permite abrir la nueva ventanas
+                //Permite 
                 await Navigation.PushAsync(new PageDos(usuario, clave));
 
             }
